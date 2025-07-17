@@ -28,7 +28,7 @@ utilizando uma estrutura enxuta e moderna, ideal para fins didáticos e portfól
 
 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/siem-monitor.git
+git clone https://github.com/diiegov/SIEM-Monitor
 cd siem-monitor
 
 2. (Opcional) Crie e ative um ambiente virtual
